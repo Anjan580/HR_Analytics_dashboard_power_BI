@@ -89,7 +89,7 @@ HR-Analytics-Dashboard/
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](./dashboard ss.png)
+![Dashboard Screenshot](./dashboardss.png)
 
 ---
 
